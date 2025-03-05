@@ -66,7 +66,5 @@ Integrate with IoT for remote monitoring.
 
 Optimize power consumption for battery operation.
 
-License
 
-This project is open-source. Feel free to modify and improve it!
 
